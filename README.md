@@ -1,5 +1,14 @@
 # Object Oreinted with Java
-- Data Flow Diagram (DFD)
+
+## Object Oreinted Principle
+:  concept ของ OOP ว่าคืออะไร  ดียังไง ทำไมควรฝึก  คำศัพท์เกี่ยวกับ OOP ที่ควรรู้จัก
+
+<br/>
+
+## Object Oreinted Design
+:  วิธีการออกแบบโปรแกรมแบบ OOP
+
+  - Data Flow Diagram (DFD)
   - OOP Design
   - Context Diagram
   - UML
