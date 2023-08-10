@@ -1,5 +1,10 @@
 # Object Oreinted with Java
 
+### Exercise
+  -  จงออกแบบระบบห้องสมุดแบบ OOP พร้อมทั้งเขียน Data Flow Diagram ด้วยภาษา java
+
+<br/><br/>
+
 ## Object Oreinted Principle
 :  concept ของ OOP ว่าคืออะไร  ดียังไง ทำไมควรฝึก  คำศัพท์เกี่ยวกับ OOP ที่ควรรู้จัก
 
