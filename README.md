@@ -1,7 +1,8 @@
 # Object Oreinted with Java
 
 ### Exercise
-  -  จงออกแบบระบบห้องสมุดแบบ OOP พร้อมทั้งเขียน Data Flow Diagram ด้วยภาษา java
+  -  [จงออกแบบระบบห้องสมุดแบบ OOP พร้อมทั้งเขียน Data Flow Diagram ด้วยภาษา java]()
+  -  [จงออกแบบระบบ E-commerce แบบ OOP พร้อมทั้งเขียน Data Flow Diagram ด้วยภาษา java]()
 
 <br/><br/>
 
